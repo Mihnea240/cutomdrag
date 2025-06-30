@@ -57,6 +57,7 @@ npm install github:Mihnea240/customdrag
 </body>
 </html>
 ```
+[Demo](https://mihnea240.github.io/customdrag/)
 
 ## API Reference
 
