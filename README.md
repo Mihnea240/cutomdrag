@@ -7,6 +7,7 @@ A lightweight, flexible JavaScript library for adding custom drag behavior to HT
 ```bash
 npm install github:Mihnea240/customdrag#dist
 ```
+or download the [customdrag.js](https://raw.githubusercontent.com/Mihnea240/customdrag/main/dist/customdrag.js) file directly.
 
 ### Example
 
