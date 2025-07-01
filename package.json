@@ -1,0 +1,24 @@
+{
+	"name": "customdrag",
+	"version": "1.0.0",
+	"description": "Drag utility for custom drag operations",
+	"main": "customdrag.js",
+	"type": "module",
+	"exports": {
+		".": {
+			"import": "./customdrag.js",
+			"types": "./customdrag.d.ts"
+		}
+	},
+	"types": "customdrag.d.ts",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Mihnea240/cutomdrag.git"
+	},
+	"author": "Curca Mihai Mihnea",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/Mihnea240/cutomdrag/issues"
+	},
+	"homepage": "https://github.com/Mihnea240/cutomdrag#readme"
+}
